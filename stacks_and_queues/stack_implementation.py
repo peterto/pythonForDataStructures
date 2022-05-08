@@ -1,3 +1,4 @@
+# last in, first out, LIFO
 class Stack:
     # size_of_stack = 0
     # items = []
